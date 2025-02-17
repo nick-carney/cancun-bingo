@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Classic Margarita",
+    "category": "Mezcal/Tequila",
+    "recipe": "https://www.savoredjourneys.com/best-beach-drinks-at-all-inclusive-resorts/"
+  },
+  {
+    "name": "Paloma",
+    "category": "Mezcal/Tequila",
+    "recipe": "https://example.com/paloma"
+  },
+  {
+    "name": "Long Island Iced Tea",
+    "category": "Other",
+    "recipe": "https://example.com/liit"
+  },
+  {
+    "name": "Tequila Sunrise",
+    "category": "Mezcal/Tequila",
+    "recipe": "https://example.com/tequila-sunrise"
+  },
+  {
+    "name": "Mezcal Mule",
+    "category": "Mezcal/Tequila",
+    "recipe": "https://example.com/mezcal-mule"
+  },
+  {
+    "name": "Whiskey Sour",
+    "category": "Other",
+    "recipe": "https://example.com/whiskey-sour"
+  },
+  {
+    "name": "Mai Tai",
+    "category": "Other",
+    "recipe": "https://example.com/mai-tai"
+  },
+  {
+    "name": "Mojito",
+    "category": "Other",
+    "recipe": "https://example.com/mojito"
+  },
+  {
+    "name": "Old Fashioned",
+    "category": "Other",
+    "recipe": "https://example.com/old-fashioned"
+  },
+  {
+    "name": "Espresso Martini",
+    "category": "Other",
+    "recipe": "https://example.com/espresso-martini"
+  },
+  {
+    "name": "Cosmo",
+    "category": "Other",
+    "recipe": "https://example.com/cosmopolitan"
+  },
+  {
+    "name": "Negroni",
+    "category": "Other",
+    "recipe": "https://example.com/negroni"
+  },
+  {
+    "name": "Gimlet",
+    "category": "Other",
+    "recipe": "https://example.com/gimlet"
+  },
+  {
+    "name": "Daiquiri",
+    "category": "Other",
+    "recipe": "https://example.com/daiquiri"
+  },
+  {
+    "name": "Pisco Sour",
+    "category": "Other",
+    "recipe": "https://example.com/pisco-sour"
+  },
+  {
+    "name": "Sidecar",
+    "category": "Other",
+    "recipe": "https://example.com/sidecar"
+  },
+  {
+    "name": "Aperol Spritz",
+    "category": "Other",
+    "recipe": "https://example.com/aperol-spritz"
+  },
+  {
+    "name": "Sazerac",
+    "category": "Other",
+    "recipe": "https://example.com/sazerac"
+  },
+  {
+    "name": "Mezcal Negroni",
+    "category": "Mezcal/Tequila",
+    "recipe": "https://example.com/mezcal-negroni"
+  },
+  {
+    "name": "Tommy’s Margarita",
+    "category": "Mezcal/Tequila",
+    "recipe": "https://example.com/tommys-margarita"
+  },
+  {
+    "name": "Jungle Bird",
+    "category": "Other",
+    "recipe": "https://example.com/jungle-bird"
+  },
+  {
+    "name": "Gin Fizz",
+    "category": "Other",
+    "recipe": "https://example.com/gin-fizz"
+  },
+  {
+    "name": "Rum Punch",
+    "category": "Other",
+    "recipe": "https://example.com/rum-punch"
+  },
+  {
+    "name": "Clover Club",
+    "category": "Other",
+    "recipe": "https://example.com/clover-club"
+  }
+]
